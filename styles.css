@@ -1,0 +1,12 @@
+body {
+    background-color: green;
+}
+
+label {
+    color: yellow;
+}
+
+input {
+    box-sizing: border-box;
+    border-radius: 7px;
+}
